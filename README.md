@@ -16,4 +16,4 @@ If you don't have Windows, make sure you have Java installed as well as for any 
 
 ## Acknowledgements
 
-I'd like to thank the people at the processing discord for helping me with some issues, such as the paddle movement.
+I'd like to thank the people at the [processing discord](https://discord.gg/gY2D67Z) for helping me with some issues, such as the paddle movement.
