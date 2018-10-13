@@ -1,3 +1,5 @@
+//Made by dooplu @ github.com/dooplu
+
 import processing.sound.*;
 
 SoundFile score;
