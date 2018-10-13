@@ -1,4 +1,4 @@
-//Made by dooplu @ github.com/dooplu
+//Made by dooplu @ https://github.com/dooplu
 
 import processing.sound.*;
 
