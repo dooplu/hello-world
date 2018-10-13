@@ -4,6 +4,8 @@ My attempt at making pong in processing
 ## Current Problems
 * I can't seem to get this thing to export
 * I really want to rewrite most of the code, this thing was done in like 3 hours on a weekend ¯\_(ツ)_/¯
+* Not really a problem but I just wanted to point out this is my first github repo
+
 
 ## Installation
 If you don't have Windows, make sure you have Java installed as well as for any computer make sure you have at least Processing 3.3.5 (What version I used when making it) 
