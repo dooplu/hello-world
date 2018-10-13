@@ -1,6 +1,9 @@
 # pong
 My attempt at making pong in processing
 
+![alt text](https://puu.sh/BKoZq/87468e45fc.png)
+
+
 ## Current Problems
 * I can't seem to get this thing to export
 * I really want to rewrite most of the code, this thing was done in like 3 hours on a weekend ¯\_(ツ)_/¯
