@@ -1,4 +1,4 @@
-# Pong
+# pong
 My attempt at making pong in processing
 
 ## Current Problems
